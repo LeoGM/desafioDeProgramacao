@@ -16,3 +16,6 @@ git clone https://github.com/LeoGM/desafioDeProgramacao.git
 ```
 ## Edição do projeto
 Para construir o projeto com o Netbenas basta  executar o comando open folder no diretório onde foi realizado o git clone.
+
+## Teste do projeto
+Para executar o projeto no netbeans basta clicar no botão do teclado F6 e no console.
