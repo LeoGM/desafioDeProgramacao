@@ -14,3 +14,5 @@ Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num di
 cd "diretorio de sua preferencia"
 git clone https://github.com/LeoGM/desafioDeProgramacao.git
 ```
+## Edição do projeto
+Para construir o projeto com o Netbenas basta  executar o comando open folder no diretório onde foi realizado o git clone.
